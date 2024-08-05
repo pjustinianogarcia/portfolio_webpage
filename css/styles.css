@@ -72,19 +72,10 @@ span {
   border-radius: 5px;
 }
 
-
-.about {
-
-}
-
 .about h1 {
   font-size: 50px;
   color: #212121;
   margin-top: 20px;
-}
-
-.about p {
-  
 }
 
 
@@ -99,10 +90,6 @@ span {
   background-color: var(--griditem);
 }
 
-.about_me p {
-  text-align: left;
-  padding: 20px;
-}
 
 .form {
   padding: 50px;
@@ -110,10 +97,6 @@ span {
 
 .tittle {
   text-align: center;
-}
-
-p {
-  padding: 20px;
 }
 
 .page-footer {
